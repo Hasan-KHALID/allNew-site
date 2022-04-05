@@ -93,12 +93,14 @@ margin: 40px auto 60px;
   position: absolute;
   right: 300px;
   top: 40px;
+  width: 200px;
 
 }
 .bottom-cloud{
   position: absolute;
   left: 300px;
   bottom: 250px;
+  width: 200px;
 
 }
 
